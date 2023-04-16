@@ -1,3 +1,4 @@
 Credits:
 Inspired by 3 PYTHON AUTOMATION PROJECTS FOR BEGINNERS (https://www.youtube.com/watch?v=vEQ8CXFWLZU&ab_channel=InternetMadeCoder)
 Thanks to this post for solving my os.listdir problem (https://stackoverflow.com/questions/62175711/filenotfound-error-reading-pdf-files-with-pypdf2-and-os-listdir/62176597#62176597)
+PyPDF2 documentation (https://pypdf2.readthedocs.io/en/3.0.0/)
